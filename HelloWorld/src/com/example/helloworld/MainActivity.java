@@ -11,8 +11,8 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		//cambio 2
-		String s  = "aaabbb";
+		//cambio 1
+		String s  = "abbb";
 	}
 
 	@Override
